@@ -28,4 +28,3 @@ text_complete_suggestions = document.get_text_complete()
 
 # - extract a graph for all suggestions
 str = SimpleTextRank(window, document.file_data, dir_with_data, text_complete_suggestions)
-ggg
